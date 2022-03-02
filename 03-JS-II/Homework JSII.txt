@@ -1,0 +1,21 @@
+for:
+
+En castellano significa "para". En lenguaje de programacion significa
+"Para algo que vale tanto y va cambiando su valor hasta llegar a otro tanto, hay que hacer lo siguiente"
+Es decir que se repiten un conjunto de lineas hasta que se da una condicion que ya està establecida que debe (o no) cumplirse desde un principio.
+
+&&:
+
+Significa "y", es decir que cuando se cumpla algo "y" otro algo, nos devolverà true.
+Por ejemplo A&&B será cierto (true) cuando sean cierto A "y" B al mismo tiempo.
+
+||:
+
+Significa "o", es decir que cuando se cumpla algo "o" otro algo, nos devolverá true.
+Por ejemplo A||B será cierto (true) cuando sea cierto A "o" B al mismo tiempo.
+
+!:
+
+Significa "no", es decir que se niega. Tabien puede entenderse como "lo contrario".
+Es decir cuando A es cierto (true), !A es falso (false); y viceversa: cuando A es falso (flase), !A es cierto (true).
+Lo interesante es que tambièn funciona con algunos operadores, por ejemplo "===" significa "igual" y "!=" significa "desigual". 
