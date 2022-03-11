@@ -1,0 +1,8 @@
+Array:
+
+Asi comouna variable es un espacio de memoria, un array es un conjunto de
+espacios de memoria, "uno al lado del otro" ordenados de forma tal que podemos
+ acceder a cada espacio conociendo el nombre del array y la posicion 
+del espacio al que queremos acceder. Asi como las casas se ordenan una tras
+ otra en una calle con el mismo nombre pero con distinta numeración, y
+ se puede acceder a cada casa conociendo el nombre de la calle y la altura.

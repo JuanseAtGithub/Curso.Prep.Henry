@@ -1,0 +1,21 @@
+Objetos:
+Así como un array tienen varios elementos del mismo tipo y ordenados,
+un objeto es un conjunto de elementos diferentes y sin un determinado orden.
+
+Propiedades:
+Son todos los elementos que existen en un objeto, pueden ser funciones(metodos)
+o valores (key values).
+
+Métodos:
+Dentro de un objeto pueden haber funciones, en este caso se las
+llama métodos.
+
+Bucle for...in:
+Como dentro de un objeto los elementos no están ordendos y no se los puede
+invocar con un índice que vaya incrementandose en un bucle, existe el bucle
+for...in que es una iteracion que pasa por todas las propiedades de objeto.
+
+Notacion de puntos vs notacion de corchetes:
+Si bien ambas funcionan de la misma manera, la notación de corchetes es más 
+propia de los arrays. Aunque se suele utilizar la notacion corchetes para llamar 
+key values, y la notacion de punto para llamar métodos.
