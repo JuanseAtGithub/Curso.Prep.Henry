@@ -1,0 +1,11 @@
+Prototype:
+
+Cada objeto tiene un objeto "padre" del que hereda ciertas propiedades.
+Cuando se busca una propiedad en un objeto y no se la encuentra, el
+interprete busca esa propiedad en su prototipo. El objeto "object" es el unico que no tiene prototipo, ya que todos los objetos son instancias de él.
+Es algo así como el ojeto primordial.
+
+Constructor (de clases):
+Un constructor es una función que permite crear varios objetos con las mismas propiedades sin tener que repetir código.
+Por convencion siempre se nombran con mayúsculas.
+
